@@ -1,0 +1,9 @@
+Testing Protocol
+
+Key Features 
+1. Interactive Map Integration
+    * Map should load properly and display markers for parking locations
+    * Map should allow for movement and zooming based on 
+    * Map should update based 
+2. Filter Functionality
+3 UX/UI

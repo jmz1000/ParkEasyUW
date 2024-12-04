@@ -1,0 +1,21 @@
+ID,name,x-coord,y-coord,address,hour_price,daily_price,monthly_price,max_capacity,start_time,end_time,wheelchair_acc,handicap_park_count,electric_charge_count,garage_or_street
+1,Portage Bay Garage,47.650808,-122.310576,4001 University Way NE,7,19,333,156,10:00,18:00,False,3,19,garage
+2,Central Plaza Garage,47.658387,-122.308348,4201 15th Ave NE,8,13,192,188,07:00,19:00,False,4,12,garage
+3,University Way NE,47.650787,-122.300812,4101 Brooklyn Ave NE,10,11,113,5,09:00,18:00,False,0,0,street
+4,University Way NE,47.651787,-122.301371,4001 University Way NE,9,13,240,6,10:00,18:00,False,0,0,street
+5,Portage Bay Garage,47.650306,-122.311347,4101 Brooklyn Ave NE,9,17,NA,62,06:00,18:00,False,3,3,garage
+6,Central Plaza Garage,47.658374,-122.307727,4001 University Way NE,9,13,NA,145,07:00,22:00,True,2,15,garage
+7,NE Campus Pkwy,47.651338,-122.308024,4001 University Way NE,8,15,407,14,08:00,19:00,False,0,0,street
+8,UW Tower Garage,47.649987,-122.309772,4301 NE Campus Pkwy,8,19,NA,194,08:00,24:00,True,4,9,garage
+9,Brooklyn Ave NE,47.649148,-122.306858,4001 University Way NE,7,20,408,8,06:00,19:00,False,0,0,street
+10,University Way NE,47.651779,-122.301404,4001 University Way NE,5,20,258,9,10:00,20:00,False,0,0,street
+11,Central Plaza Garage,47.658322,-122.307964,4201 15th Ave NE,7,17,161,80,08:00,20:00,False,0,1,garage
+12,UW Tower Garage,47.650403,-122.309077,4101 Brooklyn Ave NE,8,14,NA,57,07:00,23:00,True,4,3,garage
+13,Central Plaza Garage,47.658422,-122.307667,4301 NE Campus Pkwy,8,12,NA,164,07:00,22:00,False,3,7,garage
+14,Central Plaza Garage,47.659288,-122.308447,4001 University Way NE,10,18,NA,90,06:00,23:00,False,1,5,garage
+15,Brooklyn Ave NE,47.649742,-122.307106,4201 15th Ave NE,6,18,NA,5,10:00,22:00,False,0,0,street
+16,15th Ave NE,47.654781,-122.303787,4301 NE Campus Pkwy,9,14,250,15,08:00,22:00,False,0,0,street
+17,15th Ave NE,47.653803,-122.302913,4001 University Way NE,7,10,438,6,07:00,18:00,False,0,0,street
+18,Brooklyn Ave NE,47.650044,-122.306896,4101 Brooklyn Ave NE,8,14,NA,15,08:00,20:00,False,0,0,street
+19,15th Ave NE,47.654181,-122.303629,4201 15th Ave NE,7,20,NA,7,10:00,21:00,False,0,0,street
+20,15th Ave NE,47.654729,-122.303696,4201 15th Ave NE,6,14,NA,14,09:00,24:00,False,0,0,street
